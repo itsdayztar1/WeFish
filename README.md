@@ -1,4 +1,4 @@
-# Nextgen2.0
+#WeFish
 Beyond capturing cookies phishing bot.
 
 
