@@ -1,4 +1,4 @@
-   "key": "",
+{   "key": "",
    
    "port": 80,
    "ssl_cert": "crt.pem",
