@@ -23,7 +23,7 @@ Beyond capturing cookies phishing bot.
   <li>Unzip it and create an <code>ssl</code> folder.</li>
   <li>Turn of Windows defender firewall on private and public network.</li>
   <li>Run win-acme and follow the instructions carefully.</li>
-  <li>Rename <code>domainname.cert.pem</code> to <code>crt.pem</code> and <code>domainname.key.pem</code> to <code>key.pem</code>.</li>
+  <li>Rename <code>domainname.cert.pem</code> and <code>domainname.key.pem</code> to match <code>"ssl_cert"</code> and  <code>"ssl_key"</code> value in conf.json .</li>
   <li>Copy the <code>ssl</code> folder into the WeFish directory.</li>
 </ol>
 
