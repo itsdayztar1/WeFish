@@ -2,9 +2,9 @@
 Beyond capturing cookies phishing bot.
 
 <b>Disclaimer:</b> Available exclusively to the owners or employees of legitimate penetration testing companies.
-
+<!--
 <a href="https://youtu.be/jxaWM2DuoBg">YouTube Demo</a><br>
-<a href="https://t.me/wefishboat">Telegram Channel</a>
+<a href="https://t.me/wefishboat">Telegram Channel</a>-->
 
 <p>WeFish is highly customizable and goes beyond cookie capture. It supports own MFA injection, proxying true visitor IPs, and sending reports via dashboard and Telegram. 
   It runs multiple pages at once — all without extra setup.</p>
